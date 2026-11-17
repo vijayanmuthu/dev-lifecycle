@@ -1,0 +1,7 @@
+{
+  "name": "dev-lifecycle",
+  "version": "1.5.0",
+  "author": { "name": "Dev Lifecycle maintainers" },
+  "description": "Approval-gated development agent: Jira ticket or text requirement -> analysis doc -> plan doc -> implementation -> tests -> push -> PR -> Jira comment and status update. Works with any language and project.",
+  "keywords": ["jira", "workflow", "pull-request", "testing", "agent"]
+}

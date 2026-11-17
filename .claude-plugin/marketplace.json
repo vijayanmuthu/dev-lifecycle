@@ -1,0 +1,12 @@
+{
+  "name": "dev-lifecycle-marketplace",
+  "description": "Approval-gated development workflow agent for any language: ticket to PR with Jira sync.",
+  "owner": { "name": "Dev Lifecycle maintainers" },
+  "plugins": [
+    {
+      "name": "dev-lifecycle",
+      "source": "./",
+      "description": "Approval-gated development agent: ticket/requirement -> analysis -> plan -> implement -> test -> push -> PR -> Jira update."
+    }
+  ]
+}
